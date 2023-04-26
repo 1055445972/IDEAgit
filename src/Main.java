@@ -6,5 +6,6 @@ public class Main {
         System.out.println("fot-fix");
         System.out.println("main branch!");
         System.out.println("push code");
+        System.out.println();
     }
 }
